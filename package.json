@@ -39,7 +39,7 @@
   "devDependencies": {
     "chai": "^4.1.1",
     "cross-env": "^5.2.0",
-    "mjml": "4.5.1",
+    "mjml": "4.6.3",
     "mjml-core": "4.5.1"
   },
   "gitHead": "8fee6b676a0e2084177fcf8c1095dc52e12517c0",
